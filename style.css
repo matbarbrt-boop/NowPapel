@@ -135,7 +135,7 @@ nav ul li a:hover {
     }
 
     .hero-image img {
-        max-width: 70%;
+        max-width: 60%;
         margin-bottom: 30px;
         box-shadow: 10px 10px 0px #5e4f36; /* Sombra menor no celular */
     }
@@ -294,4 +294,5 @@ nav ul li a:hover {
 .card-link:hover {
     transform: scale(1.02);
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+
 }
