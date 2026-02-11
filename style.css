@@ -104,7 +104,7 @@ nav ul li a:hover {
 }
 
 .hero-image img {
-    max-width:60%; /* Aumentei um pouco para ocupar melhor o espaço */
+    max-width:40%; /* Aumentei um pouco para ocupar melhor o espaço */
     height: auto;
     border-radius: 20px;
     box-shadow: 15px 15px 0px #5e4f36; 
@@ -296,3 +296,4 @@ nav ul li a:hover {
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 
 }
+
